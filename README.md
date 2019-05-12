@@ -26,3 +26,13 @@ As of right now, we will be using QUIIME 2 and QUIIME View.
 6. What is your biggest concern regarding your project? (a few sentences max).
 
 My biggest concern for the project is confronting an issue with the code and not being able to find a resolution by the time that it is due. I also want the code to be efficent, but also easy enough to do for the common user and someone who has never coded before, which can be a challenge in itself.
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
